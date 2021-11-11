@@ -368,7 +368,7 @@ display: flex;
 
 /*Color del nombre*/
 .box:hover h1{
-    color: crimson;
+    color: pink;
     transition: 2s;
 }
 
